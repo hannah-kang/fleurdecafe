@@ -1,0 +1,66 @@
+// Place all the styles related to the Static controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+.has-form {
+	text-align: right;
+}
+
+.top-bar {
+	color: white;
+	
+}
+.header {
+	font-size: 20px;
+	color: blue;
+
+}
+
+#step1 {
+	position: relative;
+	padding-left: 0;
+	padding-right: 0;
+	float: left;
+}
+
+.bar.bold {
+	color: #fff;
+	line-height: 55px;
+	text-align: center;
+	font-size: 1.5em;
+	background-color: green;
+}
+
+#step2 {
+	position: relative;
+	padding-left: 0px;
+	padding-right: 0px;
+	float: left;
+}
+
+div.bar.bold {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: normal;
+	height: 55px;
+	line-height: 55px;
+	margin-bottom: 0px;
+	margin-left: 0px; 
+	margin-right: 0px;
+	margin-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	text-align: center;
+	width: 637px;
+}
+
+.columns.large-4.off {
+	position: relative;
+	padding-left: 0;
+	padding-right: 0;
+	float: left;
+}
